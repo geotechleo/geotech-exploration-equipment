@@ -1,21 +1,25 @@
-# geotech
-Professional manufacturer of geophysical exploration equipment. ERT, GPR, Proton Magnetometer, Seismic Node for mineral, groundwater &amp; engineering survey.
-# Geophysical Exploration Tools & Guides
-Professional geophysical exploration equipment and supporting resources for global exploration teams.
+# Geotech Exploration Equipment Documentation
 
-## Core Products
-We provide high-precision geophysical instruments for:
-- Mineral prospecting (Gold, Iron, Copper ore survey)
-- Groundwater detection
-- Engineering geological survey
-- Archaeological investigation
-
-## Available Resources
-- [Product Manuals & Free Software](https://geotechcn.net/downloads/)
-- [Technical Knowledge Base](https://geotechcn.net/service-categroy/knowledge-base/)
-- Field Case Studies: https://geotechcn.net/application-categroy/cases/
+Welcome to the official repository of Geotech Instrument, a professional manufacturer of high-precision geophysical exploration equipment.
 
 ## About Us
-Geotech Instrument Co., Ltd. is a professional manufacturer with 10+ years of experience in geophysical equipment. We serve 500+ clients in 80+ countries.
+With over 10 years of experience, we design and manufacture instruments for mineral exploration, groundwater detection, engineering geology and archaeological survey.
 
-Official Website: https://geotechcn.net
+## Core Products
+- **ERT Resistivity Meter**: Distributed high-density electrical imaging system for 2D/3D subsurface mapping
+- **Ground Penetrating Radar (GPR)**: Multi-frequency GPR for pipeline detection, concrete scanning and shallow geology
+- **Proton Magnetometer**: High-precision magnetic survey instrument for gold/iron ore exploration
+- **Seismic Nodes**: Wireless seismic acquisition system for oil and gas exploration
+
+## Repository Contents
+This repository contains official resources for our products:
+- Product datasheets with full technical specifications
+- User manuals and operation guides
+- Catalogs for mining, engineering and groundwater applications
+
+## Official Website
+For full product details, technical support, software downloads and case studies, please visit our official site:
+[Geotech Instrument](https://geotechcn.net)
+
+## Contact
+If you have any questions about our equipment or need technical assistance, feel free to reach out via our website.
