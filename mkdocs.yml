@@ -1,0 +1,7 @@
+site_name: Geotech Exploration Equipment Documentation
+site_url: https://geotech-exploration-equipment.readthedocs.io/
+repo_url: https://github.com/geotechleo/geotech-exploration-equipment
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
